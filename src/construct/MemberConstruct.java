@@ -5,6 +5,12 @@ public class MemberConstruct {
     int age;
     int grade;
 
+    //추가
+     MemberConstruct(String name, int age){
+         this(name, age, 50);
+
+    }
+
 //생성자
 
     MemberConstruct(String name, int age, int grade){
