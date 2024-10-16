@@ -18,3 +18,4 @@ public class MethodInitMain3 {
         }
     }
 }
+//멤버 변수에 접근하려면 앞에 this. 이라고 해주면 된다. 여기서 this는 인스턴스 자신의 참조값을 가리킨다.

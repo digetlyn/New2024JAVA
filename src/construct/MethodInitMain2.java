@@ -1,6 +1,6 @@
 package construct;
 
-public class MethodInitMain2 {
+public class  MethodInitMain2 {
 
     public static void main(String[] args) {
         MemberInit member1 = new MemberInit();
