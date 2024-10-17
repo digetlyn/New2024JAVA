@@ -5,12 +5,12 @@ import com.helloshop.user.User;
 
 public class Order {
 
-    User user;
-    Product product;
+	User user;
+	Product product;
 
-    //생성자만드는
-    public Order(User user, Product product){
-        this.user = user;
-        this.product = product;
-    }
+	//생성자만드는
+	public Order(User user, Product product) {
+		this.user = user;
+		this.product = product;
+	}
 }
