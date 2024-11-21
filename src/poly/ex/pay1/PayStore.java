@@ -11,7 +11,7 @@ public abstract class PayStore {
 			} else if(option.equals("NewPay")) {
 				return new NewPay();
 			} else {
-				return new DefaultPay();
+				return new DefaultPay(); //ddddddd
 			}
 		}
 	}
