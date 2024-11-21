@@ -3,6 +3,8 @@ package poly.ex.pay1;
 public abstract class PayStore {
 
 	//변하는 부분.
+
+	//test
 	public static Pay findPay(String option) {
 			if(option.equals("kakao")) {
 				return new KakaoPay();
